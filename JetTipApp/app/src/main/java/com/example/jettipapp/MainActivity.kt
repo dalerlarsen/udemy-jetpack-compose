@@ -254,7 +254,7 @@ fun BillForm(
                     )
                 }
             } else {
-                Box() {
+                Box {
 
                 }
             }
