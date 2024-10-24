@@ -5,6 +5,7 @@ fun main() {
     calculateChange("14.95", "15.0")
     calculateChange("28.32", "200.0")
     calculateChange("51.11", "75.0")
+    calculateChange("138.78", "500.0")
 
 }
 
